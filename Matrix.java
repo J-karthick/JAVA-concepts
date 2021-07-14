@@ -10,7 +10,7 @@ public class Matrix
    int c;
    
 	do{
-   System.out.print("17MIS0207 - J.KARTHICK \n");
+   System.out.print(" J.KARTHICK \n");
    
    System.out.print("Select the Matrix Operation to do: \n 1.Marix Additon \n 2.Matrix Subtraction \n 3.Matrix Multiplication\n");
    
