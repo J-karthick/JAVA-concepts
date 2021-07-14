@@ -3,7 +3,7 @@ class Bftostring
 
 public static void main(String[] arg){
 
-StringBuffer sb= new StringBuffer("Karthick - 17MIS0207");
+StringBuffer sb= new StringBuffer("Karthick");
 
 System.out.println(sb);
 System.out.println();
