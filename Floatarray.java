@@ -1,7 +1,7 @@
 import java.util.*;
 class Floatarray{
 	public static void main(String[] arg){
-		System.out.println(" 17MIS0207 - J.KARTHICK ");
+		System.out.println("J.KARTHICK ");
 		System.out.println("Enter the size of the array");
 		Scanner s=new Scanner(System.in);
 		int n,sum=0;
