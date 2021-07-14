@@ -21,7 +21,7 @@ System.out.println("Amount_spent_on_purchase : "+Amount_spent_on_purchase);
 public static void main(String[] arg){
 	
 {
-System.out.println("17MIS0207 - J.KARTHICK \n");
+System.out.println("J.KARTHICK \n");
 
 }
 
