@@ -21,7 +21,7 @@ float percentage1,percentage2,percentage3,percentage4,percentage5;
 
 void display()
 {
-System.out.println("17MIS0207 - J.KARTHICK \n");
+System.out.println("J.KARTHICK \n");
 }
 
 void getdetails()
@@ -69,7 +69,7 @@ public static void main(String args[])
 {
 	Expense e[] =new Expense[1];
 	{
-		System.out.println("17MIS0207 - J.KARTHICK \n");
+		System.out.println("J.KARTHICK \n");
 	}
 for(int i=0;i<2;i++)
 {
