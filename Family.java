@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Family{
 public static void main(String[] arg){
-	System.out.println(" 17MIS0207 - J.KARTHICK ");
+	System.out.println("J.KARTHICK ");
 	System.out.println("Enter the no.of persons in the Family : ");
 	Scanner s=new Scanner(System.in);
 	int s1;
