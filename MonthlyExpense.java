@@ -12,7 +12,7 @@ class MonthlyExpense
 {
     public static void main(String s[])
     {
-		System.out.println("17MIS0207 - J.KARTHICK \n");
+		System.out.println("J.KARTHICK \n");
 	    
 		Scanner s=new Scanner(System.in)
 		System.out.println("No of Family Members : ");
