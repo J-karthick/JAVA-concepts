@@ -4,7 +4,7 @@ class Personal_Calender{
 	public static void main(String[] arg){
 		
 	int month,planned_hangouts,planned_events,family_functions,career_goals,parties;
-	System.out.println("17MIS0207 J.Karthick");
+	System.out.println("J.Karthick");
 	Scanner s1=new Scanner(System.in);
 		
 	do{
