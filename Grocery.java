@@ -7,7 +7,7 @@ public class Grocery{
 	
 	public static void main(String[] arg){
 		
-	System.out.println("17MIS0207 - J.KARTHICK \n");
+	System.out.println("J.KARTHICK \n");
 	
 	Scanner s= new Scanner(System.in);
 	
