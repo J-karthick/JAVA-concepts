@@ -5,7 +5,7 @@ class PrintStudentDetails
         Student students[] = new Student[5];
     
         students[0] = new Student();
-        students[0].name = "17MIS0207 - karthick";
+        students[0].name = "karthick";
         students[0].marks = 91;
         students[0].section = 'C';
     
