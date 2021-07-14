@@ -1,6 +1,8 @@
 import java.util.*;
-public class Numbers{
+class Numbers{
 	
+	public void display(){
+	System.out.println("17MIS0207 - J.KARTHICK");
 	Scanner s=new Scanner(System.in);
 	double input;
 	double Number;
@@ -12,10 +14,14 @@ public class Numbers{
 	Number=Math.sqrt(input);
 	
 	System.out.println("The square Root of the given Number " +input+ " is "+Number);
-	
+	}
 }
 
 class Sqrt{
-	public static void main(String[] arg);
-	Numbers n=Numbers();
+	public static void main(String[] arg){
+	Numbers n=new Numbers();
+	n.display();
 }
+}
+
+
